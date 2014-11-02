@@ -1,4 +1,4 @@
 Ras.pro
 =======
 
-Just a home project for experiment with Raspberry Pi.
+Just a home project for experimenting with Raspberry Pi.
